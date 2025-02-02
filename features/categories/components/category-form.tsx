@@ -15,7 +15,7 @@ import {
     FormLabel,
     FormMessage,
 }from "@/components/ui/form"
-import { Console } from "console";
+
 
 const formSchema = insertCategorySchema.pick({
     name: true,
